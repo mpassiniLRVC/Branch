@@ -9,6 +9,7 @@ def roll_dice():
 
 def play_game():
     print("🎲 Welcome to the Dice Roll Game! 🎲")
+    print("This is an updated game")
 
     # Roll the dice
     die1, die2 = roll_dice()
